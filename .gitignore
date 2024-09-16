@@ -7,6 +7,11 @@ yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
 
+# API Keys
+.env
+VITE_OPENAI_API_KEY=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
+
+# Dependency directories
 node_modules
 dist
 dist-ssr

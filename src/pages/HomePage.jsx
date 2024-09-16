@@ -1,4 +1,4 @@
-import React from "react";
+// import React from "react";
 import { Paper, Typography, Container } from "@mui/material";
 import Footer from "../components/Footer"
 const HomePage = () => {

@@ -1,6 +1,6 @@
 // import React from "react";
 import { Paper, Typography, Container } from "@mui/material";
-import Footer from "../components/Footer"
+// import Footer from "../components/Footer"
 const HomePage = () => {
   return (
     <Container maxWidth="sm" sx={{ marginTop: 10 }}>
@@ -12,7 +12,7 @@ const HomePage = () => {
           This is the homepage.
         </Typography>
       </Paper>
-      <Footer />
+{/*       <Footer /> */}
     </Container>
     
   );
